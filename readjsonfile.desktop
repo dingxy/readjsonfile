@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=readjsonfile
+Exec=qmlscene $@ Main.qml
+Icon=readjsonfile.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

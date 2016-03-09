@@ -1,0 +1,17 @@
+{
+    "name": "readjsonfile.liu-xiao-guo",
+    "description": "description of readjsonfile",
+    "architecture": "all",
+    "title": "readjsonfile",
+    "hooks": {
+        "readjsonfile": {
+            "apparmor": "readjsonfile.apparmor",
+            "desktop":  "readjsonfile.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
